@@ -17,6 +17,7 @@
     color: gray;
     background-color: white;
     border: transparent;
+    transition: .3s ease-in-out;
 }
 .infoCardContainer{
     max-width: 1260px;
