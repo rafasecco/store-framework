@@ -12,7 +12,6 @@
     color: white;
     background-color: gray;
     border: transparent;
-    transition: .3s ease-in-out;
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
